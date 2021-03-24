@@ -3,3 +3,5 @@
 @tailwind components;
 
 @tailwind utilities;
+
+/* .btn{@apply bg-pink-800 text-white focus:outline-none w-44 h-12 rounded-lg shadow-xl hover:bg-pink-600;} */
